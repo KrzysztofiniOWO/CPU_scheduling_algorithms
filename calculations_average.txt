@@ -1,0 +1,4 @@
+Average of waiting times FCFS: 778.8436
+Average of turn around times FCFS: 794.8232
+Average of waiting times LCFS: 803.6864
+Average of turn around times LCFS: 819.6659999999999

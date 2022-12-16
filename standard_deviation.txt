@@ -1,0 +1,4 @@
+Standard deviation average waiting times FCFS: 46.78278292932396
+Standard deviation average turn around times FCFS: 47.39892401430951
+Standard deviation average waiting times LCFS: 49.90703855148683
+Standard deviation average turn around times LCFS: 50.55800729895134
